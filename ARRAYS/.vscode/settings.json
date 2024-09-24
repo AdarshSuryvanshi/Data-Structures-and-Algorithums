@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "variant": "cpp",
+        "iostream": "cpp",
+        "LINEAR_SEARCH_2.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

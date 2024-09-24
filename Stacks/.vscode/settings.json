@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "QUESES_IMPLEMNTING_ARRAY.C": "cpp",
+        "STACKS_IMPLEMNTING_ARRAY.C": "cpp",
+        "iostream": "cpp"
+    }
+}
